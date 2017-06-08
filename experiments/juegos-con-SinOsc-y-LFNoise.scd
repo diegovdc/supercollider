@@ -2,7 +2,7 @@
 {SinOsc.ar(440 + LFNoise0.kr(10, 100, 100, 10))}.play
 
 (
-x = {
+x = {//suena bien comenzando con 180 (armónico 9)  y 200 (armónico 10), luego agregando otros armónicos
 	[SinOsc.ar(
 		300,
 		LFNoise2.kr(0.001, 10)*0.000001,

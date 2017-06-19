@@ -1,4 +1,7 @@
 s.boot
+
+//objetivo: ayudarme a mejorar la entonación de notas en la flauta. Hará sonar notas al azar dentro de una escala y yo podre tocar esa nota o un intervalo y asegurarme de que esté correctamente afinada
+
 //random sine notes of a scale
 
 //intervals
